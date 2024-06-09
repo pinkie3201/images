@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set the base URL
-BASE_URL="https://league-curriculum.github.io/images"
+BASE_URL="http://images.jointheleague.org"
 
 # Set the directory to scan
 DIRECTORY="."
