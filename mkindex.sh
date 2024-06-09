@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set the base URL
-BASE_URL="http://images.jointheleague.org"
+BASE_URL="https://images.jointheleague.org"
 
 # Set the directory to scan
 DIRECTORY="."
