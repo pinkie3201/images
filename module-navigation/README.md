@@ -67,6 +67,10 @@
     <td><img src="http://images.jointheleague.org/module-navigation/source_link.png" alt="source_link.png" style="max-width:200px; max-height:200px;"></td>
   </tr>
   <tr>
+    <td><a href="http://images.jointheleague.org/module-navigation/three_buttons.png">three_buttons.png</a></td>
+    <td><img src="http://images.jointheleague.org/module-navigation/three_buttons.png" alt="three_buttons.png" style="max-width:200px; max-height:200px;"></td>
+  </tr>
+  <tr>
     <td><a href="http://images.jointheleague.org/module-navigation/view_button.png">view_button.png</a></td>
     <td><img src="http://images.jointheleague.org/module-navigation/view_button.png" alt="view_button.png" style="max-width:200px; max-height:200px;"></td>
   </tr>
