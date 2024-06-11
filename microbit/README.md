@@ -30,9 +30,5 @@
     <td><a href="https://images.jointheleague.org/microbit/microbit.png">microbit.png</a></td>
     <td><img src="https://images.jointheleague.org/microbit/microbit.png" alt="microbit.png" style="max-width:200px; max-height:200px;"></td>
   </tr>
-  <tr>
-    <td><a href="https://images.jointheleague.org/microbit/pieEater.png">pieEater.png</a></td>
-    <td><img src="https://images.jointheleague.org/microbit/pieEater.png" alt="pieEater.png" style="max-width:200px; max-height:200px;"></td>
-  </tr>
 </table>
 
