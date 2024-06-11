@@ -9,4 +9,5 @@ way to do this is from inside a codespace.
 
 <!-- start generated content -->
 
+- [/microbit](/microbit/README.md)
 - [/module-navigation](/module-navigation/README.md)
