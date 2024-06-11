@@ -7,16 +7,16 @@
     <th>Image</th>
   </tr>
   <tr>
-    <td><a href="https://images.jointheleague.org/microbit/Screenshot 2024-06-10 at 10.37.23 PM.png">Screenshot 2024-06-10 at 10.37.23 PM.png</a></td>
-    <td><img src="https://images.jointheleague.org/microbit/Screenshot 2024-06-10 at 10.37.23 PM.png" alt="Screenshot 2024-06-10 at 10.37.23 PM.png" style="max-width:200px; max-height:200px;"></td>
-  </tr>
-  <tr>
-    <td><a href="https://images.jointheleague.org/microbit/Screenshot 2024-06-10 at 10.38.21 PM.png">Screenshot 2024-06-10 at 10.38.21 PM.png</a></td>
-    <td><img src="https://images.jointheleague.org/microbit/Screenshot 2024-06-10 at 10.38.21 PM.png" alt="Screenshot 2024-06-10 at 10.38.21 PM.png" style="max-width:200px; max-height:200px;"></td>
-  </tr>
-  <tr>
     <td><a href="https://images.jointheleague.org/microbit/big_heart.png">big_heart.png</a></td>
     <td><img src="https://images.jointheleague.org/microbit/big_heart.png" alt="big_heart.png" style="max-width:200px; max-height:200px;"></td>
+  </tr>
+  <tr>
+    <td><a href="https://images.jointheleague.org/microbit/cbextension.png">cbextension.png</a></td>
+    <td><img src="https://images.jointheleague.org/microbit/cbextension.png" alt="cbextension.png" style="max-width:200px; max-height:200px;"></td>
+  </tr>
+  <tr>
+    <td><a href="https://images.jointheleague.org/microbit/cbtile.png">cbtile.png</a></td>
+    <td><img src="https://images.jointheleague.org/microbit/cbtile.png" alt="cbtile.png" style="max-width:200px; max-height:200px;"></td>
   </tr>
   <tr>
     <td><a href="https://images.jointheleague.org/microbit/cutebot.jpg">cutebot.jpg</a></td>
