@@ -19,6 +19,10 @@
     <td><img src="https://images.jointheleague.org/microbit/cbtile.png" alt="cbtile.png" style="max-width:200px; max-height:200px;"></td>
   </tr>
   <tr>
+    <td><a href="https://images.jointheleague.org/microbit/cutebot-top.png">cutebot-top.png</a></td>
+    <td><img src="https://images.jointheleague.org/microbit/cutebot-top.png" alt="cutebot-top.png" style="max-width:200px; max-height:200px;"></td>
+  </tr>
+  <tr>
     <td><a href="https://images.jointheleague.org/microbit/cutebot.jpg">cutebot.jpg</a></td>
     <td><img src="https://images.jointheleague.org/microbit/cutebot.jpg" alt="cutebot.jpg" style="max-width:200px; max-height:200px;"></td>
   </tr>
