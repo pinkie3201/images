@@ -11,6 +11,10 @@
     <td><img src="https://images.jointheleague.org/module-navigation/active_codespace.png" alt="active_codespace.png" style="max-width:200px; max-height:200px;"></td>
   </tr>
   <tr>
+    <td><a href="https://images.jointheleague.org/module-navigation/bottom_pane_menu.png">bottom_pane_menu.png</a></td>
+    <td><img src="https://images.jointheleague.org/module-navigation/bottom_pane_menu.png" alt="bottom_pane_menu.png" style="max-width:200px; max-height:200px;"></td>
+  </tr>
+  <tr>
     <td><a href="https://images.jointheleague.org/module-navigation/code_button.png">code_button.png</a></td>
     <td><img src="https://images.jointheleague.org/module-navigation/code_button.png" alt="code_button.png" style="max-width:200px; max-height:200px;"></td>
   </tr>
@@ -41,6 +45,10 @@
   <tr>
     <td><a href="https://images.jointheleague.org/module-navigation/open_codespc.png">open_codespc.png</a></td>
     <td><img src="https://images.jointheleague.org/module-navigation/open_codespc.png" alt="open_codespc.png" style="max-width:200px; max-height:200px;"></td>
+  </tr>
+  <tr>
+    <td><a href="https://images.jointheleague.org/module-navigation/pane_config.png">pane_config.png</a></td>
+    <td><img src="https://images.jointheleague.org/module-navigation/pane_config.png" alt="pane_config.png" style="max-width:200px; max-height:200px;"></td>
   </tr>
   <tr>
     <td><a href="https://images.jointheleague.org/module-navigation/ports.png">ports.png</a></td>

@@ -14,4 +14,5 @@ visit the website to get you image URL.
 <!-- start generated content -->
 
 - [/microbit](/microbit/README.md)
+- [/misc](/misc/README.md)
 - [/module-navigation](/module-navigation/README.md)
