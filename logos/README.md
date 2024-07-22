@@ -1,0 +1,62 @@
+# Images in /logos
+
+<!-- This README lists all image files in the /logos directory -->
+<table>
+  <tr>
+    <th>Link</th>
+    <th>Image</th>
+  </tr>
+  <tr>
+    <td><a href="https://images.jointheleague.org/logos/bolt.png">bolt.png</a></td>
+    <td><img src="https://images.jointheleague.org/logos/bolt.png" alt="bolt.png" style="max-width:200px; max-height:200px;"></td>
+  </tr>
+  <tr>
+    <td><a href="https://images.jointheleague.org/logos/figures_girl.png">figures_girl.png</a></td>
+    <td><img src="https://images.jointheleague.org/logos/figures_girl.png" alt="figures_girl.png" style="max-width:200px; max-height:200px;"></td>
+  </tr>
+  <tr>
+    <td><a href="https://images.jointheleague.org/logos/figures_text_boy.png">figures_text_boy.png</a></td>
+    <td><img src="https://images.jointheleague.org/logos/figures_text_boy.png" alt="figures_text_boy.png" style="max-width:200px; max-height:200px;"></td>
+  </tr>
+  <tr>
+    <td><a href="https://images.jointheleague.org/logos/flag.png">flag.png</a></td>
+    <td><img src="https://images.jointheleague.org/logos/flag.png" alt="flag.png" style="max-width:200px; max-height:200px;"></td>
+  </tr>
+  <tr>
+    <td><a href="https://images.jointheleague.org/logos/logo4.png">logo4.png</a></td>
+    <td><img src="https://images.jointheleague.org/logos/logo4.png" alt="logo4.png" style="max-width:200px; max-height:200px;"></td>
+  </tr>
+  <tr>
+    <td><a href="https://images.jointheleague.org/logos/logo_JTL_horiz.png">logo_JTL_horiz.png</a></td>
+    <td><img src="https://images.jointheleague.org/logos/logo_JTL_horiz.png" alt="logo_JTL_horiz.png" style="max-width:200px; max-height:200px;"></td>
+  </tr>
+  <tr>
+    <td><a href="https://images.jointheleague.org/logos/logo_black.png">logo_black.png</a></td>
+    <td><img src="https://images.jointheleague.org/logos/logo_black.png" alt="logo_black.png" style="max-width:200px; max-height:200px;"></td>
+  </tr>
+  <tr>
+    <td><a href="https://images.jointheleague.org/logos/logo_blackbg.jpg">logo_blackbg.jpg</a></td>
+    <td><img src="https://images.jointheleague.org/logos/logo_blackbg.jpg" alt="logo_blackbg.jpg" style="max-width:200px; max-height:200px;"></td>
+  </tr>
+  <tr>
+    <td><a href="https://images.jointheleague.org/logos/logo_square_1000.png">logo_square_1000.png</a></td>
+    <td><img src="https://images.jointheleague.org/logos/logo_square_1000.png" alt="logo_square_1000.png" style="max-width:200px; max-height:200px;"></td>
+  </tr>
+  <tr>
+    <td><a href="https://images.jointheleague.org/logos/logo_w_orangebg.png">logo_w_orangebg.png</a></td>
+    <td><img src="https://images.jointheleague.org/logos/logo_w_orangebg.png" alt="logo_w_orangebg.png" style="max-width:200px; max-height:200px;"></td>
+  </tr>
+  <tr>
+    <td><a href="https://images.jointheleague.org/logos/logo_white.png">logo_white.png</a></td>
+    <td><img src="https://images.jointheleague.org/logos/logo_white.png" alt="logo_white.png" style="max-width:200px; max-height:200px;"></td>
+  </tr>
+  <tr>
+    <td><a href="https://images.jointheleague.org/logos/logowords.png">logowords.png</a></td>
+    <td><img src="https://images.jointheleague.org/logos/logowords.png" alt="logowords.png" style="max-width:200px; max-height:200px;"></td>
+  </tr>
+  <tr>
+    <td><a href="https://images.jointheleague.org/logos/wordmark.png">wordmark.png</a></td>
+    <td><img src="https://images.jointheleague.org/logos/wordmark.png" alt="wordmark.png" style="max-width:200px; max-height:200px;"></td>
+  </tr>
+</table>
+

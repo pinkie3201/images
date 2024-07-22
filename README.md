@@ -13,6 +13,7 @@ visit the website to get you image URL.
 
 <!-- start generated content -->
 
+- [/logos](/logos/README.md)
 - [/microbit](/microbit/README.md)
 - [/misc](/misc/README.md)
 - [/module-navigation](/module-navigation/README.md)
