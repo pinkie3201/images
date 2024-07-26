@@ -51,10 +51,6 @@
     <td><img src="https://images.jointheleague.org/logos/logo_white.png" alt="logo_white.png" style="max-width:200px; max-height:200px;"></td>
   </tr>
   <tr>
-    <td><a href="https://images.jointheleague.org/logos/logowords.png">logowords.png</a></td>
-    <td><img src="https://images.jointheleague.org/logos/logowords.png" alt="logowords.png" style="max-width:200px; max-height:200px;"></td>
-  </tr>
-  <tr>
     <td><a href="https://images.jointheleague.org/logos/wordmark.png">wordmark.png</a></td>
     <td><img src="https://images.jointheleague.org/logos/wordmark.png" alt="wordmark.png" style="max-width:200px; max-height:200px;"></td>
   </tr>
