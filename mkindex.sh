@@ -90,3 +90,6 @@ rm toc.tmp
 rm readme_top.md
 
 echo "README.md files have been created successfully."
+
+git commit -a -m'Update'
+git push
