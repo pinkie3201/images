@@ -14,6 +14,7 @@ visit the website to get you image URL.
 
 <!-- start generated content -->
 
+- [/github](/github/README.md)
 - [/logos](/logos/README.md)
 - [/microbit](/microbit/README.md)
 - [/misc](/misc/README.md)
