@@ -15,6 +15,10 @@
     <td><img src="https://images.jointheleague.org/github/bottom_pane_menu.png" alt="bottom_pane_menu.png" style="max-width:200px; max-height:200px;"></td>
   </tr>
   <tr>
+    <td><a href="https://images.jointheleague.org/github/browser_pane.png">browser_pane.png</a></td>
+    <td><img src="https://images.jointheleague.org/github/browser_pane.png" alt="browser_pane.png" style="max-width:200px; max-height:200px;"></td>
+  </tr>
+  <tr>
     <td><a href="https://images.jointheleague.org/github/browser_window.png">browser_window.png</a></td>
     <td><img src="https://images.jointheleague.org/github/browser_window.png" alt="browser_window.png" style="max-width:200px; max-height:200px;"></td>
   </tr>
