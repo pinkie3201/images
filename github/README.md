@@ -23,6 +23,10 @@
     <td><img src="https://images.jointheleague.org/github/browser_window.png" alt="browser_window.png" style="max-width:200px; max-height:200px;"></td>
   </tr>
   <tr>
+    <td><a href="https://images.jointheleague.org/github/code.png">code.png</a></td>
+    <td><img src="https://images.jointheleague.org/github/code.png" alt="code.png" style="max-width:200px; max-height:200px;"></td>
+  </tr>
+  <tr>
     <td><a href="https://images.jointheleague.org/github/code_button.png">code_button.png</a></td>
     <td><img src="https://images.jointheleague.org/github/code_button.png" alt="code_button.png" style="max-width:200px; max-height:200px;"></td>
   </tr>
