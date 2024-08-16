@@ -87,6 +87,10 @@
     <td><img src="https://images.jointheleague.org/github/rundebug.png" alt="rundebug.png" style="max-width:200px; max-height:200px;"></td>
   </tr>
   <tr>
+    <td><a href="https://images.jointheleague.org/github/understand_workflows.png">understand_workflows.png</a></td>
+    <td><img src="https://images.jointheleague.org/github/understand_workflows.png" alt="understand_workflows.png" style="max-width:200px; max-height:200px;"></td>
+  </tr>
+  <tr>
     <td><a href="https://images.jointheleague.org/github/vscode.png">vscode.png</a></td>
     <td><img src="https://images.jointheleague.org/github/vscode.png" alt="vscode.png" style="max-width:200px; max-height:200px;"></td>
   </tr>
