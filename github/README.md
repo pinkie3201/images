@@ -7,6 +7,10 @@
     <th>Image</th>
   </tr>
   <tr>
+    <td><a href="https://images.jointheleague.org/github/actions_menu.png">actions_menu.png</a></td>
+    <td><img src="https://images.jointheleague.org/github/actions_menu.png" alt="actions_menu.png" style="max-width:200px; max-height:200px;"></td>
+  </tr>
+  <tr>
     <td><a href="https://images.jointheleague.org/github/active_codespace.png">active_codespace.png</a></td>
     <td><img src="https://images.jointheleague.org/github/active_codespace.png" alt="active_codespace.png" style="max-width:200px; max-height:200px;"></td>
   </tr>
