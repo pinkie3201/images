@@ -79,6 +79,10 @@
     <td><img src="https://images.jointheleague.org/github/ports_pane.png" alt="ports_pane.png" style="max-width:200px; max-height:200px;"></td>
   </tr>
   <tr>
+    <td><a href="https://images.jointheleague.org/github/restart_codespace.png">restart_codespace.png</a></td>
+    <td><img src="https://images.jointheleague.org/github/restart_codespace.png" alt="restart_codespace.png" style="max-width:200px; max-height:200px;"></td>
+  </tr>
+  <tr>
     <td><a href="https://images.jointheleague.org/github/run_menu_closed.png">run_menu_closed.png</a></td>
     <td><img src="https://images.jointheleague.org/github/run_menu_closed.png" alt="run_menu_closed.png" style="max-width:200px; max-height:200px;"></td>
   </tr>
