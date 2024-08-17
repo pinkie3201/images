@@ -15,6 +15,10 @@
     <td><img src="https://images.jointheleague.org/vscode/create_codespace.png" alt="create_codespace.png" style="max-width:200px; max-height:200px;"></td>
   </tr>
   <tr>
+    <td><a href="https://images.jointheleague.org/vscode/git_changes.png">git_changes.png</a></td>
+    <td><img src="https://images.jointheleague.org/vscode/git_changes.png" alt="git_changes.png" style="max-width:200px; max-height:200px;"></td>
+  </tr>
+  <tr>
     <td><a href="https://images.jointheleague.org/vscode/run_buttons.png">run_buttons.png</a></td>
     <td><img src="https://images.jointheleague.org/vscode/run_buttons.png" alt="run_buttons.png" style="max-width:200px; max-height:200px;"></td>
   </tr>
