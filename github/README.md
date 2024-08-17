@@ -31,6 +31,10 @@
     <td><img src="https://images.jointheleague.org/github/code_menu.png" alt="code_menu.png" style="max-width:200px; max-height:200px;"></td>
   </tr>
   <tr>
+    <td><a href="https://images.jointheleague.org/github/codespace_stopped.png">codespace_stopped.png</a></td>
+    <td><img src="https://images.jointheleague.org/github/codespace_stopped.png" alt="codespace_stopped.png" style="max-width:200px; max-height:200px;"></td>
+  </tr>
+  <tr>
     <td><a href="https://images.jointheleague.org/github/create_codespace.png">create_codespace.png</a></td>
     <td><img src="https://images.jointheleague.org/github/create_codespace.png" alt="create_codespace.png" style="max-width:200px; max-height:200px;"></td>
   </tr>
