@@ -27,6 +27,10 @@
     <td><img src="https://images.jointheleague.org/vscode/sc_changes.png" alt="sc_changes.png" style="max-width:200px; max-height:200px;"></td>
   </tr>
   <tr>
+    <td><a href="https://images.jointheleague.org/vscode/sc_edit_message.png">sc_edit_message.png</a></td>
+    <td><img src="https://images.jointheleague.org/vscode/sc_edit_message.png" alt="sc_edit_message.png" style="max-width:200px; max-height:200px;"></td>
+  </tr>
+  <tr>
     <td><a href="https://images.jointheleague.org/vscode/sc_sync.png">sc_sync.png</a></td>
     <td><img src="https://images.jointheleague.org/vscode/sc_sync.png" alt="sc_sync.png" style="max-width:200px; max-height:200px;"></td>
   </tr>
