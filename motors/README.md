@@ -7,6 +7,10 @@
     <th>Image</th>
   </tr>
   <tr>
+    <td><a href="https://images.jointheleague.org/motors/hobby_servo.png">hobby_servo.png</a></td>
+    <td><img src="https://images.jointheleague.org/motors/hobby_servo.png" alt="hobby_servo.png" style="max-width:200px; max-height:200px;"></td>
+  </tr>
+  <tr>
     <td><a href="https://images.jointheleague.org/motors/small_dc_motor.png">small_dc_motor.png</a></td>
     <td><img src="https://images.jointheleague.org/motors/small_dc_motor.png" alt="small_dc_motor.png" style="max-width:200px; max-height:200px;"></td>
   </tr>
