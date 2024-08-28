@@ -14,11 +14,11 @@ visit the website to get you image URL.
 
 <!-- start generated content -->
 
-- [/classes/motors](/classes/motors/README.md)
 - [/github](/github/README.md)
 - [/logos](/logos/README.md)
 - [/microbit](/microbit/README.md)
 - [/misc](/misc/README.md)
 - [/module-navigation](/module-navigation/README.md)
+- [/motors](/motors/README.md)
 - [/p3logos](/p3logos/README.md)
 - [/vscode](/vscode/README.md)
