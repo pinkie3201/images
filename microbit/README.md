@@ -51,6 +51,14 @@
     <td><img src="https://images.jointheleague.org/microbit/loops.png" alt="loops.png" style="max-width:200px; max-height:200px;"></td>
   </tr>
   <tr>
+    <td><a href="https://images.jointheleague.org/microbit/mb_setup_1.png">mb_setup_1.png</a></td>
+    <td><img src="https://images.jointheleague.org/microbit/mb_setup_1.png" alt="mb_setup_1.png" style="max-width:200px; max-height:200px;"></td>
+  </tr>
+  <tr>
+    <td><a href="https://images.jointheleague.org/microbit/mb_setup_2.png">mb_setup_2.png</a></td>
+    <td><img src="https://images.jointheleague.org/microbit/mb_setup_2.png" alt="mb_setup_2.png" style="max-width:200px; max-height:200px;"></td>
+  </tr>
+  <tr>
     <td><a href="https://images.jointheleague.org/microbit/microbit.png">microbit.png</a></td>
     <td><img src="https://images.jointheleague.org/microbit/microbit.png" alt="microbit.png" style="max-width:200px; max-height:200px;"></td>
   </tr>
