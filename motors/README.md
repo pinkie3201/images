@@ -7,12 +7,32 @@
     <th>Image</th>
   </tr>
   <tr>
+    <td><a href="https://images.jointheleague.org/motors/box_contents.png">box_contents.png</a></td>
+    <td><img src="https://images.jointheleague.org/motors/box_contents.png" alt="box_contents.png" style="max-width:200px; max-height:200px;"></td>
+  </tr>
+  <tr>
+    <td><a href="https://images.jointheleague.org/motors/box_contents_2.png">box_contents_2.png</a></td>
+    <td><img src="https://images.jointheleague.org/motors/box_contents_2.png" alt="box_contents_2.png" style="max-width:200px; max-height:200px;"></td>
+  </tr>
+  <tr>
+    <td><a href="https://images.jointheleague.org/motors/breakout.png">breakout.png</a></td>
+    <td><img src="https://images.jointheleague.org/motors/breakout.png" alt="breakout.png" style="max-width:200px; max-height:200px;"></td>
+  </tr>
+  <tr>
+    <td><a href="https://images.jointheleague.org/motors/hbridge-top.png">hbridge-top.png</a></td>
+    <td><img src="https://images.jointheleague.org/motors/hbridge-top.png" alt="hbridge-top.png" style="max-width:200px; max-height:200px;"></td>
+  </tr>
+  <tr>
     <td><a href="https://images.jointheleague.org/motors/hobby_servo.png">hobby_servo.png</a></td>
     <td><img src="https://images.jointheleague.org/motors/hobby_servo.png" alt="hobby_servo.png" style="max-width:200px; max-height:200px;"></td>
   </tr>
   <tr>
     <td><a href="https://images.jointheleague.org/motors/small_dc_motor.png">small_dc_motor.png</a></td>
     <td><img src="https://images.jointheleague.org/motors/small_dc_motor.png" alt="small_dc_motor.png" style="max-width:200px; max-height:200px;"></td>
+  </tr>
+  <tr>
+    <td><a href="https://images.jointheleague.org/motors/stepper-driver.png">stepper-driver.png</a></td>
+    <td><img src="https://images.jointheleague.org/motors/stepper-driver.png" alt="stepper-driver.png" style="max-width:200px; max-height:200px;"></td>
   </tr>
 </table>
 
