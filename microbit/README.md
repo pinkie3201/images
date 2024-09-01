@@ -47,8 +47,16 @@
     <td><img src="https://images.jointheleague.org/microbit/if.png" alt="if.png" style="max-width:200px; max-height:200px;"></td>
   </tr>
   <tr>
+    <td><a href="https://images.jointheleague.org/microbit/import_button.png">import_button.png</a></td>
+    <td><img src="https://images.jointheleague.org/microbit/import_button.png" alt="import_button.png" style="max-width:200px; max-height:200px;"></td>
+  </tr>
+  <tr>
     <td><a href="https://images.jointheleague.org/microbit/loops.png">loops.png</a></td>
     <td><img src="https://images.jointheleague.org/microbit/loops.png" alt="loops.png" style="max-width:200px; max-height:200px;"></td>
+  </tr>
+  <tr>
+    <td><a href="https://images.jointheleague.org/microbit/mb_editor.png">mb_editor.png</a></td>
+    <td><img src="https://images.jointheleague.org/microbit/mb_editor.png" alt="mb_editor.png" style="max-width:200px; max-height:200px;"></td>
   </tr>
   <tr>
     <td><a href="https://images.jointheleague.org/microbit/mb_setup_1.png">mb_setup_1.png</a></td>
@@ -65,6 +73,10 @@
   <tr>
     <td><a href="https://images.jointheleague.org/microbit/play_button.png">play_button.png</a></td>
     <td><img src="https://images.jointheleague.org/microbit/play_button.png" alt="play_button.png" style="max-width:200px; max-height:200px;"></td>
+  </tr>
+  <tr>
+    <td><a href="https://images.jointheleague.org/microbit/sign_in.png">sign_in.png</a></td>
+    <td><img src="https://images.jointheleague.org/microbit/sign_in.png" alt="sign_in.png" style="max-width:200px; max-height:200px;"></td>
   </tr>
 </table>
 
