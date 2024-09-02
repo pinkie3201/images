@@ -7,6 +7,10 @@
     <th>Image</th>
   </tr>
   <tr>
+    <td><a href="https://images.jointheleague.org/motors/50_duty_trace.png">50_duty_trace.png</a></td>
+    <td><img src="https://images.jointheleague.org/motors/50_duty_trace.png" alt="50_duty_trace.png" style="max-width:200px; max-height:200px;"></td>
+  </tr>
+  <tr>
     <td><a href="https://images.jointheleague.org/motors/box_contents.png">box_contents.png</a></td>
     <td><img src="https://images.jointheleague.org/motors/box_contents.png" alt="box_contents.png" style="max-width:200px; max-height:200px;"></td>
   </tr>

@@ -75,6 +75,10 @@
     <td><img src="https://images.jointheleague.org/microbit/play_button.png" alt="play_button.png" style="max-width:200px; max-height:200px;"></td>
   </tr>
   <tr>
+    <td><a href="https://images.jointheleague.org/microbit/servo_library.png">servo_library.png</a></td>
+    <td><img src="https://images.jointheleague.org/microbit/servo_library.png" alt="servo_library.png" style="max-width:200px; max-height:200px;"></td>
+  </tr>
+  <tr>
     <td><a href="https://images.jointheleague.org/microbit/sign_in.png">sign_in.png</a></td>
     <td><img src="https://images.jointheleague.org/microbit/sign_in.png" alt="sign_in.png" style="max-width:200px; max-height:200px;"></td>
   </tr>
