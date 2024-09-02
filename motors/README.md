@@ -19,6 +19,10 @@
     <td><img src="https://images.jointheleague.org/motors/breakout.png" alt="breakout.png" style="max-width:200px; max-height:200px;"></td>
   </tr>
   <tr>
+    <td><a href="https://images.jointheleague.org/motors/breakout_connect.png">breakout_connect.png</a></td>
+    <td><img src="https://images.jointheleague.org/motors/breakout_connect.png" alt="breakout_connect.png" style="max-width:200px; max-height:200px;"></td>
+  </tr>
+  <tr>
     <td><a href="https://images.jointheleague.org/motors/hbridge-top.png">hbridge-top.png</a></td>
     <td><img src="https://images.jointheleague.org/motors/hbridge-top.png" alt="hbridge-top.png" style="max-width:200px; max-height:200px;"></td>
   </tr>
