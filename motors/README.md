@@ -39,6 +39,10 @@
     <td><img src="https://images.jointheleague.org/motors/microbit_contents.png" alt="microbit_contents.png" style="max-width:200px; max-height:200px;"></td>
   </tr>
   <tr>
+    <td><a href="https://images.jointheleague.org/motors/motor_setup.png">motor_setup.png</a></td>
+    <td><img src="https://images.jointheleague.org/motors/motor_setup.png" alt="motor_setup.png" style="max-width:200px; max-height:200px;"></td>
+  </tr>
+  <tr>
     <td><a href="https://images.jointheleague.org/motors/oscope.png">oscope.png</a></td>
     <td><img src="https://images.jointheleague.org/motors/oscope.png" alt="oscope.png" style="max-width:200px; max-height:200px;"></td>
   </tr>
