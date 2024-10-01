@@ -14,5 +14,9 @@
     <td><a href="https://images.jointheleague.org/misc/hr_use_github.png">hr_use_github.png</a></td>
     <td><img src="https://images.jointheleague.org/misc/hr_use_github.png" alt="hr_use_github.png" style="max-width:200px; max-height:200px;"></td>
   </tr>
+  <tr>
+    <td><a href="https://images.jointheleague.org/misc/vectors.png">vectors.png</a></td>
+    <td><img src="https://images.jointheleague.org/misc/vectors.png" alt="vectors.png" style="max-width:200px; max-height:200px;"></td>
+  </tr>
 </table>
 
