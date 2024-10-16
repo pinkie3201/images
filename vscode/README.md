@@ -15,6 +15,10 @@
     <td><img src="https://images.jointheleague.org/vscode/create_codespace.png" alt="create_codespace.png" style="max-width:200px; max-height:200px;"></td>
   </tr>
   <tr>
+    <td><a href="https://images.jointheleague.org/vscode/create_codespace_sm.png">create_codespace_sm.png</a></td>
+    <td><img src="https://images.jointheleague.org/vscode/create_codespace_sm.png" alt="create_codespace_sm.png" style="max-width:200px; max-height:200px;"></td>
+  </tr>
+  <tr>
     <td><a href="https://images.jointheleague.org/vscode/debug_bar.png">debug_bar.png</a></td>
     <td><img src="https://images.jointheleague.org/vscode/debug_bar.png" alt="debug_bar.png" style="max-width:200px; max-height:200px;"></td>
   </tr>
