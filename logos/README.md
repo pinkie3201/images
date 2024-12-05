@@ -7,8 +7,28 @@
     <th>Image</th>
   </tr>
   <tr>
+    <td><a href="https://images.jointheleague.org/logos/android-chrome-192x192.png">android-chrome-192x192.png</a></td>
+    <td><img src="https://images.jointheleague.org/logos/android-chrome-192x192.png" alt="android-chrome-192x192.png" style="max-width:200px; max-height:200px;"></td>
+  </tr>
+  <tr>
+    <td><a href="https://images.jointheleague.org/logos/android-chrome-512x512.png">android-chrome-512x512.png</a></td>
+    <td><img src="https://images.jointheleague.org/logos/android-chrome-512x512.png" alt="android-chrome-512x512.png" style="max-width:200px; max-height:200px;"></td>
+  </tr>
+  <tr>
+    <td><a href="https://images.jointheleague.org/logos/apple-touch-icon.png">apple-touch-icon.png</a></td>
+    <td><img src="https://images.jointheleague.org/logos/apple-touch-icon.png" alt="apple-touch-icon.png" style="max-width:200px; max-height:200px;"></td>
+  </tr>
+  <tr>
     <td><a href="https://images.jointheleague.org/logos/bolt.png">bolt.png</a></td>
     <td><img src="https://images.jointheleague.org/logos/bolt.png" alt="bolt.png" style="max-width:200px; max-height:200px;"></td>
+  </tr>
+  <tr>
+    <td><a href="https://images.jointheleague.org/logos/favicon-16x16.png">favicon-16x16.png</a></td>
+    <td><img src="https://images.jointheleague.org/logos/favicon-16x16.png" alt="favicon-16x16.png" style="max-width:200px; max-height:200px;"></td>
+  </tr>
+  <tr>
+    <td><a href="https://images.jointheleague.org/logos/favicon-32x32.png">favicon-32x32.png</a></td>
+    <td><img src="https://images.jointheleague.org/logos/favicon-32x32.png" alt="favicon-32x32.png" style="max-width:200px; max-height:200px;"></td>
   </tr>
   <tr>
     <td><a href="https://images.jointheleague.org/logos/figures_girl.png">figures_girl.png</a></td>
