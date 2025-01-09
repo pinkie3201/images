@@ -23,6 +23,14 @@
     <td><img src="https://images.jointheleague.org/logos/bolt.png" alt="bolt.png" style="max-width:200px; max-height:200px;"></td>
   </tr>
   <tr>
+    <td><a href="https://images.jointheleague.org/logos/clearRobot3Color1.png">clearRobot3Color1.png</a></td>
+    <td><img src="https://images.jointheleague.org/logos/clearRobot3Color1.png" alt="clearRobot3Color1.png" style="max-width:200px; max-height:200px;"></td>
+  </tr>
+  <tr>
+    <td><a href="https://images.jointheleague.org/logos/clearRobotRing4.png">clearRobotRing4.png</a></td>
+    <td><img src="https://images.jointheleague.org/logos/clearRobotRing4.png" alt="clearRobotRing4.png" style="max-width:200px; max-height:200px;"></td>
+  </tr>
+  <tr>
     <td><a href="https://images.jointheleague.org/logos/favicon-16x16.png">favicon-16x16.png</a></td>
     <td><img src="https://images.jointheleague.org/logos/favicon-16x16.png" alt="favicon-16x16.png" style="max-width:200px; max-height:200px;"></td>
   </tr>
@@ -69,6 +77,10 @@
   <tr>
     <td><a href="https://images.jointheleague.org/logos/logo_white.png">logo_white.png</a></td>
     <td><img src="https://images.jointheleague.org/logos/logo_white.png" alt="logo_white.png" style="max-width:200px; max-height:200px;"></td>
+  </tr>
+  <tr>
+    <td><a href="https://images.jointheleague.org/logos/t-shirt image final.png">t-shirt image final.png</a></td>
+    <td><img src="https://images.jointheleague.org/logos/t-shirt image final.png" alt="t-shirt image final.png" style="max-width:200px; max-height:200px;"></td>
   </tr>
   <tr>
     <td><a href="https://images.jointheleague.org/logos/wordmark.png">wordmark.png</a></td>
