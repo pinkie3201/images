@@ -47,6 +47,10 @@
     <td><img src="https://images.jointheleague.org/logos/figures_text_boy.png" alt="figures_text_boy.png" style="max-width:200px; max-height:200px;"></td>
   </tr>
   <tr>
+    <td><a href="https://images.jointheleague.org/logos/flag-sunburst.png">flag-sunburst.png</a></td>
+    <td><img src="https://images.jointheleague.org/logos/flag-sunburst.png" alt="flag-sunburst.png" style="max-width:200px; max-height:200px;"></td>
+  </tr>
+  <tr>
     <td><a href="https://images.jointheleague.org/logos/flag.png">flag.png</a></td>
     <td><img src="https://images.jointheleague.org/logos/flag.png" alt="flag.png" style="max-width:200px; max-height:200px;"></td>
   </tr>
